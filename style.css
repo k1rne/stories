@@ -1,0 +1,33 @@
+{
+padding: 30px;
+margin: 0;
+box-sizing: border-box;
+}
+
+.slider{
+    height:90vh;
+    background-image: linear-gradient(to right, whitesmoke,lightgrey,darkgray);
+    margin-bottom:120px;
+}
+
+.carousel-item img{
+    width: 10%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.navbar-brand{
+    font-family: "Segoe UI" , cursive;
+    font-size: 20px;
+}
+
+.navbar-nav li a{
+font-size: 20px;
+    font-family: "Segoe UI",cursive;
+}
+
+.feature{
+    font-family: "Segoe UI" , cursive;
+    font-size: 40px;
+}
+
